@@ -1,0 +1,17 @@
+{
+    "name": "kirchbergerknorr/static-blocks-everywhere",
+    "description": "Static Blocks Everywhere",
+    "keywords": ["magento", "static-blocks-everywhere", "xonu_sbe"],
+    "homepage": "http://www.magentocommerce.com/magento-connect/static-blocks-everywhere.html",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Aleksey Razbakov",
+            "email": "aleksey@razbakov.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
